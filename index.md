@@ -2,7 +2,7 @@
 ~~date of birth~~
 
 City  
-+Number  
++370 600 00000  
 email@email.email  
 
 Let's see what we've got. Writing anything about yourself.
